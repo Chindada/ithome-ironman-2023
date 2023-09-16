@@ -4,21 +4,21 @@
 
 ## Index
 
-### [【鐵人賽】DAY-01 你缺少的只是少一個友好的介面](./day-01/DAY-01.md)
+### [【鐵人賽】DAY-01 你缺少的只是少一個友好的下單介面](./day-01/DAY-01.md)
 
 ### [【鐵人賽】DAY-02 從架構圖開始](./day-02/DAY-02.md)
 
-### [【鐵人賽】DAY-03 淺談 gRPC](./day-03/DAY-03.md)
+### [【鐵人賽】DAY-03 初探 protobuf、gRPC](./day-03/DAY-03.md)
 
-### [【鐵人賽】DAY-04 從券商 Python API 開始之『一』](./day-04/DAY-04.md)
+### [【鐵人賽】DAY-04 從券商 Python API 開始『一』](./day-04/DAY-04.md)
 
-### [【鐵人賽】DAY-05](./day-05/DAY-05.md)
+### [【鐵人賽】DAY-05 從券商 Python API 開始『二』](./day-05/DAY-05.md)
 
-### [【鐵人賽】DAY-06](./day-06/DAY-06.md)
+### [【鐵人賽】DAY-06 從券商 Python API 開始『三』](./day-06/DAY-06.md)
 
-### [【鐵人賽】DAY-07](./day-07/DAY-07.md)
+### [【鐵人賽】DAY-07 實作 gRPC](./day-07/DAY-07.md)
 
-### [【鐵人賽】DAY-08](./day-08/DAY-08.md)
+### [【鐵人賽】DAY-08 建立資料庫 Postgres](./day-08/DAY-08.md)
 
 ### [【鐵人賽】DAY-09](./day-09/DAY-09.md)
 
