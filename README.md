@@ -71,8 +71,6 @@ for i in {01..30}
 do
     mkdir "day-${i}"
     touch day-${i}/DAY-${i}.md
-    mkdir "day-${i}/assets"
-    touch "day-${i}/assets/.gitkeep"
     echo "# 【鐵人賽】DAY-${i}" > day-${i}/DAY-${i}.md
 done
 ```
