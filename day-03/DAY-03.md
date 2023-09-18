@@ -10,7 +10,7 @@
 並且後端跟後端之間是採用 gRPC 的方式溝通
 應該是目前跨平台所使用的大多數微服務採用的方案
 要使用這個技術
-那就得先提到 `[Protobuf](https://protobuf.dev)`、`[gRPC](https://grpc.io)`
+那就得先提到 [Protobuf](https://protobuf.dev)、[gRPC](https://grpc.io)
 但我們會從動機開始談
 
 ## 動機
