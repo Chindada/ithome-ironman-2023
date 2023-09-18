@@ -2,7 +2,7 @@
 
 ![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-03-初探-protobuf、gRPC-01.png)
 
-本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/18/2023鐵人賽/782/timhsu/)
+本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/18/2023-ironman/782/timhsu/)
 
 ## 前言
 

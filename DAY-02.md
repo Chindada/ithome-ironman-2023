@@ -2,7 +2,7 @@
 
 ![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-01.png)
 
-本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/17/2023鐵人賽/767/timhsu/)
+本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/17/2023-ironman/767/timhsu/)
 
 ## 前言
 
