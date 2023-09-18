@@ -10,15 +10,15 @@
 
 ### [【鐵人賽】DAY-03 初探 protobuf、gRPC](./DAY-03.md)
 
-### [【鐵人賽】DAY-04 從券商 Python API 開始『一』](./DAY-04.md)
+### [【鐵人賽】DAY-04 初探 protobuf、gRPC 『二』](./DAY-04.md)
 
-### [【鐵人賽】DAY-05 從券商 Python API 開始『二』](./DAY-05.md)
+### [【鐵人賽】DAY-05](./DAY-05.md)
 
-### [【鐵人賽】DAY-06 從券商 Python API 開始『三』](./DAY-06.md)
+### [【鐵人賽】DAY-06](./DAY-06.md)
 
-### [【鐵人賽】DAY-07 實作 gRPC](./DAY-07.md)
+### [【鐵人賽】DAY-07](./DAY-07.md)
 
-### [【鐵人賽】DAY-08 建立資料庫 Postgres](./DAY-08.md)
+### [【鐵人賽】DAY-08](./DAY-08.md)
 
 ### [【鐵人賽】DAY-09](./DAY-09.md)
 
@@ -34,13 +34,13 @@
 
 ### [【鐵人賽】DAY-15](./DAY-15.md)
 
-### [【鐵人賽】DAY-16](./DAY-16.md)
+### [【鐵人賽】DAY-16 從券商 Python API 開始『一』](./DAY-16.md)
 
-### [【鐵人賽】DAY-17](./DAY-17.md)
+### [【鐵人賽】DAY-17 從券商 Python API 開始『二』](./DAY-17.md)
 
-### [【鐵人賽】DAY-18](./DAY-18.md)
+### [【鐵人賽】DAY-18 從券商 Python API 開始『三』](./DAY-18.md)
 
-### [【鐵人賽】DAY-19](./DAY-19.md)
+### [【鐵人賽】DAY-19 建立資料庫 Postgres](./DAY-19.md)
 
 ### [【鐵人賽】DAY-20](./DAY-20.md)
 
