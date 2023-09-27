@@ -1,8 +1,8 @@
 # 【鐵人賽】DAY-02 從架構圖開始
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-01.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-01.png)
 
-本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/17/2023-ironman/767/timhsu/)
+本文同步發佈於[毛毛的踩坑人生](https://tocandraw.com/2023-ironman/767/)
 
 ## 前言
 
@@ -23,11 +23,11 @@
 就是各位熟悉的 draw.io，推薦的原因其中也包括
 他現在已經內建 C4 Model，以前都還額外裝呢
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-02-1024x860.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-02-1024x860.png)
 
 1. 首先，我們會從券商的 API 開始串接，在 C4 當中，灰色是代表外部的系統
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-03.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-03.png)
 
 2. 再來我們要加入我們的第一個組件，這邊預計他會是一隻由 Python 攥寫的程式
     其主要作用會是包裝券商的 API，並且轉化成 `gRPC Method`
@@ -35,7 +35,7 @@
     現在暫時稱它叫做 `Python gRPC Forwarder`
     取這個名稱的原因無他，因為他就只是做一個轉發並轉換成 gRPC
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-04.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-04.png)
 
 再來稍微展開一下
 這隻程式需要做到什麼
@@ -48,17 +48,17 @@
 
 - 將以上 API 轉化成 gRPC
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-07-1024x461.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-07-1024x461.png)
 
 這樣做還有一個好處，我相信未來各個券商開放自己 API 是一個趨勢
 如果橫向擴展，儘管券商 API 格式都不相同
 但我們可以透過事先定義好的 `gRPC, protobuf`，就是常聽到的 `統一 Interface`
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-05.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-05.png)
 
 3. 前面我們開好了 `gRPC Server`，那現在就要加入主要使用 Golang 攥寫的後端服務
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-06.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-06.png)
 
 一樣，我們展開一下
 
@@ -68,11 +68,11 @@
 
 - 需要串接剛剛開好的 gRPC Server
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-08-1024x859.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-08-1024x859.png)
 
 4. 最後，當然就是加入使用者介面跟使用者
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-09-344x1024.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-02-從架構圖開始-09-344x1024.png)
 
 ## 總結
 

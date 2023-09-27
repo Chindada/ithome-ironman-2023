@@ -2,7 +2,7 @@
 
 ![IMG](https://tocandraw.com/wp-content/uploads/2022/04/Golang_Python_Trade_Cover_2.png.png)
 
-本文同步發佈於[毛毛的踩坑人生](https://tocandraw.com/2023/09/20/2023-ironman/811/timhsu/)
+本文同步發佈於[毛毛的踩坑人生](https://tocandraw.com/2023-ironman/811/)
 
 ## 前言
 

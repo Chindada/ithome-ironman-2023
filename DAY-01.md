@@ -1,8 +1,8 @@
 # 【鐵人賽】DAY-01 你缺少的只是一個友好的介面
 
-![IMG](https://blog.tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-01-你缺少的只是少一個友好的下單介面-01.png)
+![IMG](https://tocandraw.com/wp-content/uploads/2023/09/【鐵人賽】DAY-01-你缺少的只是少一個友好的下單介面-01.png)
 
-本文同步發佈於[毛毛的踩坑人生](https://blog.tocandraw.com/2023/09/16/2023-ironman/750/timhsu/)
+本文同步發佈於[毛毛的踩坑人生](https://tocandraw.com/2023-ironman/750/)
 
 ## 前言
 
