@@ -2,13 +2,13 @@
 
 [![LICENSE](https://img.shields.io/github/license/Chindada/ithome-ironman-2023?style=for-the-badge)](COPYING)
 
-## Index
-
 2023.9.16 報名了鐵人賽
 
 需要一路寫到 2023.10.15
 
 這邊來做個紀錄～
+
+## Index
 
 ### [【鐵人賽】DAY-01 你缺少的只是一個友好的介面](./DAY-01.md)
 
